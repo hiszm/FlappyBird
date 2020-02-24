@@ -1,4 +1,6 @@
 
+演示链接[http://ai.szm2019.cn](http://ai.szm2019.cn)
+
 假设有这样的房间
 
  
