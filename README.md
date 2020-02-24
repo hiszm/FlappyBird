@@ -1,5 +1,6 @@
 
 演示链接[http://ai.szm2019.cn](http://ai.szm2019.cn)
+备份链接[ http://hiszm.gitee.io/flappybird]( http://hiszm.gitee.io/flappybird)
 
 假设有这样的房间
 
